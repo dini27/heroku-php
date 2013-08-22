@@ -1,3 +1,4 @@
 <?php 
-phpinfo();
+#phpinfo();
+print_r("Power Couple");
 ?>
