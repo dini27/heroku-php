@@ -1,6 +1,6 @@
 <?php
 #phpinfo();
-print_r("Power Couple");
+print_r("Power Couple hmmmmmmmmmmmmm");
 	$params = array(
 		'api_key'	=> '712ee7fdf58e5a6a1fcba0619cdb9b42',
 		'method'	=> 'flickr.photos.getInfo',
